@@ -45,22 +45,22 @@ The following files are available for the train and test data. Their description
 
 Overall the Data will be used in the following way : 
 
-1.Values of Varible Activity consist of data from “Y_train.txt” and “Y_test.txt”
-2.values of Varible Subject consist of data from “subject_train.txt” and subject_test.txt"
-3.Values of Varibles Features consist of data from “X_train.txt” and “X_test.txt”
-4.Names of Varibles Features come from “features.txt” 
-5.Levels of Varible Activity come from “activity_labels.txt”
+1. Values of Varible Activity consist of data from “Y_train.txt” and “Y_test.txt”
+2. values of Varible Subject consist of data from “subject_train.txt” and subject_test.txt"
+3. Values of Varibles Features consist of data from “X_train.txt” and “X_test.txt”
+4. Names of Varibles Features come from “features.txt” 
+5. Levels of Varible Activity come from “activity_labels.txt”
 So we will use Activity, Subject and Features as part of descriptive variable names for data in data frame.
 
 
 Names of Feteatures will labelled using descriptive variable names in the follwing way:
 
-prefix t is replaced by time
-Acc is replaced by Accelerometer
-Gyro is replaced by Gyroscope
-prefix f is replaced by frequency
-Mag is replaced by Magnitude
-BodyBody is replaced by Body
+- prefix t is replaced by time
+- Acc is replaced by Accelerometer
+- Gyro is replaced by Gyroscope
+- prefix f is replaced by frequency
+- Mag is replaced by Magnitude
+- BodyBody is replaced by Body
 
 
 ## Transformation details
