@@ -15,6 +15,7 @@ You should create one R script called run_analysis.R that does the following.
 4. Appropriately labels the data set with descriptive activity names.
 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+For more details into the working of the run_analysis.R please have a look at the run_analysis.md file which will explain the working of how the code has been done. 
 
 ## Dependencies
 dplyr
