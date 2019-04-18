@@ -15,11 +15,10 @@ following.
     set
 4.  Appropriately labels the data set with descriptive activity names.
 5.  Creates a second, independent tidy data set with the average of each
-    variable for each activity and each subject.
+    variable for each activity and each
+subject.
 
-For more details into the working of the run\_analysis.R please have a
-look at the run\_analysis.md file which will explain the working of how
-the code has been done.
+###### *For more details into the working of the run\_analysis.R please have a look at the run\_analysis.md file which will explain the working of how the code has been done.*
 
 ## Dependencies
 
